@@ -1,4 +1,4 @@
-# compuational_physics_N2014301020151
+* compuational_physics_N2014301020151
 * exercise_01
 * [exercise_02](https://www.zybuluo.com/ibilis/note/505078)
 * [exercise_03](https://www.zybuluo.com/ibilis/note/505218)
@@ -8,3 +8,4 @@
 * [exercise_07](https://www.zybuluo.com/ibilis/note/549554)
 * [exercise_08](https://www.zybuluo.com/ibilis/note/565049)
 * [exercise_09](https://www.zybuluo.com/ibilis/note/573487)
+* [exercise_10](https://www.zybuluo.com/ibilis/note/581275)
