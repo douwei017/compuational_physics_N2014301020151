@@ -10,3 +10,4 @@
 * [exercise_09](https://www.zybuluo.com/ibilis/note/573487)
 * [exercise_10](https://www.zybuluo.com/ibilis/note/581275) 
 * [exercise_11](https://www.zybuluo.com/ibilis/note/589703)
+* [exercise_12](https://www.zybuluo.com/ibilis/note/597743)
